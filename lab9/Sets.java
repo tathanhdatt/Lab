@@ -42,7 +42,7 @@ public class Sets {
   public static List<Integer> removeDuplicatesManual(List<Integer> source) {
     for (int i = 0; i < source.size(); i++) {
       for (int j = i + 1; j < source.size() - 1; j++) {
-        if (source.get(i) == source.get(j)) {
+        if (source.get(i).equals(source.get(j))) {
           source.remove(j);
         }
       }

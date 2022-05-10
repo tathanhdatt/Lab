@@ -30,7 +30,7 @@ public class Lists {
   }
 
   public static ArrayList<Integer> generateSquare() {
-    ArrayList<Integer> list = new ArrayList<Integer>();
+    ArrayList<Integer> list = new ArrayList<>();
 
     for (int i = 1; i < 11; i++) {
       list.add(i * i);

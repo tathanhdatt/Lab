@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edd8ef9c-fb4e-43e0-9b3f-cb9287df83bf" name="Changes" comment="feat: add main methods Lists.java&#10;fix: Lists.java: insertLast(), removeEvil(), reverseManual()">
-      <change afterPath="$PROJECT_DIR$/lab10/library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/library/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/library/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/library/Rent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/library/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/mylist/MyAbstractList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/mylist/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/mylist/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/mylist/MyLinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/mylist/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="edd8ef9c-fb4e-43e0-9b3f-cb9287df83bf" name="Changes" comment="chore: add lab8, lab9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,16 +13,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/lab9/Lists.java" root0="FORCE_HIGHLIGHTING" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab9" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,27 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/datta/Code/Java/OOP/Lab&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/datta/Code/Java/OOP/Lab",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="lab10.mylist" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Lists">
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab9.Lists" />
+}]]></component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab6.ballandplayer.TestBall" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab9.*" />
+          <option name="PATTERN" value="lab6.ballandplayer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,7 +96,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lists" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.ballandplayer.TestPlayer" />
         <item itemvalue="Application.ballandplayer.TestBall" />
@@ -163,14 +140,7 @@
       <option name="project" value="LOCAL" />
       <updated>1651840899520</updated>
     </task>
-    <task id="LOCAL-00005" summary="feat: add main methods Lists.java&#10;fix: Lists.java: insertLast(), removeEvil(), reverseManual()">
-      <created>1651894287777</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1651894287777</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +161,6 @@
     <MESSAGE value="add exercises 6,7 and divide folder" />
     <MESSAGE value="chore: rename directory" />
     <MESSAGE value="chore: add lab8, lab9" />
-    <MESSAGE value="feat: add main methods Lists.java&#10;fix: Lists.java: insertLast(), removeEvil(), reverseManual()" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add main methods Lists.java&#10;fix: Lists.java: insertLast(), removeEvil(), reverseManual()" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: add lab8, lab9" />
   </component>
 </project>
